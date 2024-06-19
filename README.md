@@ -1,3 +1,21 @@
+## debloating
+
+https://github.com/Sophia-Community/SophiApp
+
+## useful tools
+[Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
+[Defender Control](https://github.com/qtkite/defender-control)
+[Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+## ricing
+
+https://github.com/DavidRela/riceWindows
+
+## disable "windows protected your PC"
+
+1. search for "reputation based protection"
+2. disable "check apps and files"
+
 ## bypass "this PC can’t run Windows 11"
 
 1. on "this PC can't run Windows 11" click on the arrow to go a step back

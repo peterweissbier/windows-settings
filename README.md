@@ -16,11 +16,18 @@ https://github.com/DavidRela/riceWindows
 1. search for "reputation based protection"
 2. disable "check apps and files"
 
+## disable unsafe file prompt
+
+1. search for "inetcpl.cpl" and press enter
+2. in the security tab, click 'custom Level'
+3. enable "launching applications and unsafe files"
+4. restart
+
 ## bypass "this PC can’t run Windows 11"
 
 1. on "this PC can't run Windows 11" click on the arrow to go a step back
 2. Shift-F10 to open the cmd
-3. type regedit
+3. type "regedit"
 4. create registry keys via navigating to HKEY_LOCAL_MACHINE\SYSTEM\Setup
 <pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">--> Create a new Key with the name LabConfig
 --> add the following DWORD (32-bit) Values and set the values to 1

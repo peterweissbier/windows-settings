@@ -3,9 +3,9 @@
 https://rentry.co/debloatguide
 
 ## useful tools
-[Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
-[Defender Control](https://github.com/qtkite/defender-control)
-[Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+    [Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
+    [Defender Control](https://github.com/qtkite/defender-control)
+    [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ## disable "windows protected your PC"
 

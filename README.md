@@ -1,15 +1,11 @@
 ## debloating
 
-https://github.com/Sophia-Community/SophiApp
+[https://github.com/Sophia-Community/SophiApp](https://rentry.co/debloatguide)
 
 ## useful tools
 [Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
 [Defender Control](https://github.com/qtkite/defender-control)
 [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
-
-## ricing
-
-https://github.com/DavidRela/riceWindows
 
 ## disable "windows protected your PC"
 

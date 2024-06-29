@@ -1,6 +1,6 @@
 ## debloating
 
-[https://github.com/Sophia-Community/SophiApp](https://rentry.co/debloatguide)
+https://rentry.co/debloatguide
 
 ## useful tools
 [Explorer Patcher](https://github.com/valinet/ExplorerPatcher)

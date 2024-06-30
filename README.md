@@ -51,3 +51,13 @@ BypassTPMCheck</pre>
 2. Shift-F10 to open the cmd
 3. type oobe\bypassnro
 4. after the reboot, select "i don't have internet" and "continue with limited setup"
+
+## Make Windows 11 Accept File Paths over 260 Characters
+
+1. open gpedit.msc
+
+2.  browse to
+
+Computer Configuration -> Administrative Templates -> System -> Filesystem
+
+3. set Enable Win32 Long paths to enabled

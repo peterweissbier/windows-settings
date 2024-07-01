@@ -17,6 +17,10 @@ https://rentry.co/debloatguide
 
 3. Restart File Explorer
 
+## restore windows photo viewer
+
+https://github.com/peterweissbier/Restore_Windows_Photo_Viewer
+
 ## disable "windows protected your PC"
 
 1. search for "reputation based protection"

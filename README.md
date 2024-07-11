@@ -9,6 +9,10 @@ https://rentry.co/debloatguide
 
 [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
+## uninstall microsoft edge
+
+https://rentry.co/uninstall_edge
+
 ## get the old context menu from windows 10 back
 
 1. open windows terminal

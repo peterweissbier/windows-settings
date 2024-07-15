@@ -13,7 +13,14 @@ https://rentry.co/debloatguide
 
 https://rentry.co/uninstall_edge
 
-## get the old context menu from windows 10 back
+##
+open regedit
+
+go to the key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
+
+create a new dword 32 with the name HubMode and change its value to 1
+
+## (windows 11) get the old context menu from windows 10 back
 
 1. open windows terminal
 

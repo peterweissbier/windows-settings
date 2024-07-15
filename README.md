@@ -13,7 +13,8 @@ https://rentry.co/debloatguide
 
 https://rentry.co/uninstall_edge
 
-##
+## (windows 10) disable quick access in file explorer
+
 open regedit
 
 go to the key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer

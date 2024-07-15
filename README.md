@@ -9,6 +9,8 @@ https://rentry.co/debloatguide
 
 [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
+[PowerToys](https://github.com/microsoft/PowerToys)
+
 ## uninstall microsoft edge
 
 https://rentry.co/uninstall_edge

@@ -15,13 +15,20 @@ https://rentry.co/debloatguide
 
 https://rentry.co/uninstall_edge
 
-## (windows 10) disable quick access in file explorer
+## disable firefox builtin translation tool
 
-open regedit
+about:config and set both to false
 
-go to the key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
+browser.translations.automaticallyPopup
 
-create a new dword 32 with the name HubMode and change its value to 1
+browser.translations.enable
+
+alternative less intrusive plugin: 
+https://github.com/FilipePS/Traduzir-paginas-web
+
+## windows media player plus plugin
+
+https://bmproductions.fixnum.org/index.htm?https://bmproductions.fixnum.org/wmpplus/
 
 ## (windows 11) get the old context menu from windows 10 back
 

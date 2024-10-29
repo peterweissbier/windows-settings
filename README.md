@@ -12,22 +12,11 @@ https://rentry.co/debloatguide
 [PowerToys](https://github.com/microsoft/PowerToys)
 
 ## remove windows defender
-[hehe](https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/)
+[yep you heard right](https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/)
 
 ## uninstall microsoft edge
 
 https://rentry.co/uninstall_edge
-
-## disable firefox builtin translation tool
-
-about:config and set both to false
-
-browser.translations.automaticallyPopup
-
-browser.translations.enable
-
-alternative less intrusive plugin: 
-https://github.com/FilipePS/Traduzir-paginas-web
 
 ## windows media player plus plugin
 

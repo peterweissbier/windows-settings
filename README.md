@@ -12,7 +12,7 @@ https://rentry.org/debloatguide
 [PowerToys](https://github.com/microsoft/PowerToys)
 
 ## remove windows defender
-[yep you heard right](https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/)
+[yep you heard that right](https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/)
 
 ## uninstall microsoft edge
 

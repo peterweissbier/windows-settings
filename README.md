@@ -16,7 +16,7 @@ https://rentry.org/debloatguide
 
 ## uninstall microsoft edge
 
-https://rentry.co/uninstall_edge
+https://rentry.org/uninstall_edge
 
 ## windows media player plus plugin
 

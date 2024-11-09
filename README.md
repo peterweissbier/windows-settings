@@ -22,6 +22,10 @@ https://rentry.org/uninstall_edge
 
 https://bmproductions.fixnum.org/index.htm?https://bmproductions.fixnum.org/wmpplus/
 
+## install windows store on ltsc systems
+
+wsreset -i
+
 ## (windows 11) get the old context menu from windows 10 back
 
 1. open windows terminal

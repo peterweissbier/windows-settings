@@ -1,6 +1,6 @@
 ## debloating
 
-https://rentry.co/debloatguide
+https://rentry.org/debloatguide
 
 ## useful tools
 [Explorer Patcher](https://github.com/valinet/ExplorerPatcher)

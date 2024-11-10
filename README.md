@@ -14,6 +14,10 @@ https://rentry.org/debloatguide
 ## remove windows defender
 [yep you heard that right](https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/)
 
+## install malwarebytes
+
+https://rentry.org/MB-Premium/
+
 ## uninstall microsoft edge
 
 https://rentry.org/uninstall_edge

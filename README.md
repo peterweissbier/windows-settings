@@ -47,6 +47,10 @@ https://github.com/peterweissbier/Restore_Windows_Photo_Viewer
 1. search for "reputation based protection"
 2. disable "check apps and files"
 
+## disable "these files might be harmful to your computer"
+
+https://www.makeuseof.com/windows-disable-these-files-might-harmful-computer/
+
 ## disable unsafe file prompt
 
 1. search for "inetcpl.cpl" and press enter

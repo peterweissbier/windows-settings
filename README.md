@@ -30,14 +30,6 @@ https://bmproductions.fixnum.org/index.htm?https://bmproductions.fixnum.org/wmpp
 
 wsreset -i
 
-## (windows 11) get the old context menu from windows 10 back
-
-1. open windows terminal
-
-2. reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
-
-3. Restart File Explorer
-
 ## restore windows photo viewer
 
 https://github.com/peterweissbier/Restore_Windows_Photo_Viewer

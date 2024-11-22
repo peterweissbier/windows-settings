@@ -43,6 +43,10 @@ https://github.com/peterweissbier/Restore_Windows_Photo_Viewer
 
 https://www.makeuseof.com/windows-disable-these-files-might-harmful-computer/
 
+## disable "The publisher could not be verified, Are you sure you want to run this software"
+
+https://www.thewindowsclub.com/the-publisher-could-not-be-verified
+
 ## disable unsafe file prompt
 
 1. search for "inetcpl.cpl" and press enter

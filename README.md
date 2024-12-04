@@ -7,8 +7,6 @@ https://rentry.org/debloatguide
 
 [Defender Control](https://github.com/qtkite/defender-control)
 
-[windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)
-
 [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 [PowerToys](https://github.com/microsoft/PowerToys)

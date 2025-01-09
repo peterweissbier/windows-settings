@@ -3,16 +3,15 @@
 https://rentry.org/debloatguide
 
 ## useful tools
-[Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
 
 [Defender Control](https://github.com/qtkite/defender-control)
 
-[Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+[Activate Windows and Office with Microsoft Activation Scripts (MAS) tool](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 [PowerToys](https://github.com/microsoft/PowerToys)
 
 ## remove windows defender
-[yep you heard that right](https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/)
+https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/
 
 ## install malwarebytes
 
@@ -29,10 +28,6 @@ https://bmproductions.fixnum.org/index.htm?https://bmproductions.fixnum.org/wmpp
 ## install windows store on ltsc systems
 
 wsreset -i
-
-## restore windows photo viewer
-
-https://github.com/peterweissbier/Restore_Windows_Photo_Viewer
 
 ## disable "windows protected your PC"
 

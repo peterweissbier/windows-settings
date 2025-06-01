@@ -36,11 +36,7 @@ wsreset -i
 
 ## disable "these files might be harmful to your computer"
 
-https://www.makeuseof.com/windows-disable-these-files-might-harmful-computer/
-
-## disable "The publisher could not be verified, Are you sure you want to run this software"
-
-https://www.thewindowsclub.com/the-publisher-could-not-be-verified
+https://www.sevenforums.com/tutorials/182353-open-file-security-warning-enable-disable.html
 
 ## disable unsafe file prompt
 

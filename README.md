@@ -4,13 +4,13 @@ https://rentry.org/debloatguide
 
 ## useful tools
 
-[Defender Control](https://github.com/qtkite/defender-control)
+[Disable Windows Defenderl](https://github.com/es3n1n/defendnot)
 
 [Activate Windows and Office with Microsoft Activation Scripts (MAS) tool](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 [PowerToys](https://github.com/microsoft/PowerToys)
 
-## remove windows defender
+## completely remove windows defender
 https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/
 
 ## install malwarebytes
@@ -77,3 +77,8 @@ BypassTPMCheck</pre>
 Computer Configuration -> Administrative Templates -> System -> Filesystem
 
 3. set Enable Win32 Long paths to enabled
+
+## Bring the old Windows 10 context menu back on Windows 11
+
+execute this in a terminal and restart the file explorer 
+reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve

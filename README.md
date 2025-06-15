@@ -13,6 +13,10 @@ https://rentry.org/debloatguide
 ## completely remove windows defender
 https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/
 
+## setting up Comic Sans MS as the primary font
+
+[https://github.com/peterweissbier/comicsans]
+
 ## install malwarebytes
 
 https://rentry.org/MB-Premium/

@@ -13,6 +13,10 @@ https://rentry.org/debloatguide
 ## completely remove windows defender
 https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/
 
+## get back the old volume mixer from windows 10 (for windows 11)
+
+https://github.com/peterweissbier/EnableWindows10VolumeOSD
+
 ## setting up Comic Sans MS as the primary font
 
 https://github.com/peterweissbier/comicsans

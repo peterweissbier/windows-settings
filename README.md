@@ -4,7 +4,7 @@ https://rentry.org/debloatguide
 
 ## useful tools
 
-[Disable Windows Defenderl](https://github.com/ionuttbara/windows-defender-remover)
+[Disable Windows Defender](https://github.com/ionuttbara/windows-defender-remover)
 
 [Activate Windows and Office with Microsoft Activation Scripts (MAS) tool](https://github.com/massgravel/Microsoft-Activation-Scripts)
 

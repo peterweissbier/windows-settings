@@ -10,6 +10,8 @@ https://rentry.org/debloatguide
 
 [PowerToys](https://github.com/microsoft/PowerToys)
 
+[Classic Volume Mixer from Windows 10](https://github.com/popeen/Classic-Volume-Mixer)
+
 ## completely remove windows defender
 https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/
 

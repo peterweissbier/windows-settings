@@ -4,8 +4,6 @@ https://rentry.org/debloatguide
 
 ## useful tools
 
-[Disable Windows Defender](https://github.com/ionuttbara/windows-defender-remover)
-
 [Activate Windows and Office with Microsoft Activation Scripts (MAS) tool](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 [PowerToys](https://github.com/microsoft/PowerToys)
@@ -14,10 +12,6 @@ https://rentry.org/debloatguide
 
 ## completely remove windows defender
 https://lazyadmin.nl/win-11/turn-off-windows-defender-windows-11-permanently/
-
-## get back the old volume mixer from windows 10 (for windows 11)
-
-https://github.com/peterweissbier/EnableWindows10VolumeOSD
 
 ## setting up Comic Sans MS as the primary font
 

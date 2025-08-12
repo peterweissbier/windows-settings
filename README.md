@@ -50,5 +50,4 @@ Computer Configuration -> Administrative Templates -> System -> Filesystem
 
 ## Bring the old Windows 10 context menu back on Windows 11
 
-execute this in a terminal and restart the file explorer 
-reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+https://github.com/peterweissbier/windows10contextmenu
